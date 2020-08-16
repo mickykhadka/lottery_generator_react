@@ -1,0 +1,11 @@
+.Ball button {
+  background-color: orangered;
+  padding: 10px 12px;
+  border-radius: 50%;
+  border: none;
+  color: aliceblue;
+  font-size: 1.2em;
+  display: inline-block;
+  width: 2.2em;
+  height: 2em;
+}
